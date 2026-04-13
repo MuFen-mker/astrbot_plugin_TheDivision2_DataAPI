@@ -1,0 +1,2 @@
+# astrbot_plugin_TheDivision2_DataAPI
+数据查询用
