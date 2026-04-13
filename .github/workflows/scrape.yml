@@ -1,0 +1,32 @@
+name: Scrape Division Vendor Data
+
+on:
+  schedule:
+    - cron: '30 7,8,9,10 * * 2'   # 每周二 UTC 7:30,8:30,9:30,10:30
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python weekly.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add all_vendors.json
+          git diff --staged --quiet || git commit -m "Auto-update vendor data: $(date -u +'%Y-%m-%d %H:%M:%S')"
+          git push
