@@ -37,8 +37,8 @@ def fetch_gears_by_vendor(vendor_name):
             "brand": gear.get('brand', '-'),
             "type": gear.get('slot', '-'),
             "Core": clean_html(gear.get('core', '-')),
-            "secondary1": sec1,
-            "secondary2": sec2,
+            "attribute1": sec1,
+            "attribute2": sec2,
             "talent": clean_html(gear.get('talents', '-'))
         }
         result.append(item)
