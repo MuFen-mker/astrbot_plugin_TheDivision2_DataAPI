@@ -208,6 +208,40 @@
       }
     ]
   },
+  "Countdown": {
+    "gears": [
+      {
+        "name": "Spot-on",
+        "brand": "Urban Lookout",
+        "type": "Holster",
+        "Core": "12.3% Weapon Damage",
+        "attribute1": "38.0% Accuracy",
+        "attribute2": "10.8% Critical Hit Damage",
+        "talent": "-"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Cabaret - MP5 ST",
+        "dmg": "51,713",
+        "rpm": 800,
+        "talent": "Perfect Thunder Strike",
+        "attribute1": "11.9% SMG Damage",
+        "attribute2": "16.5% Critical Hit Chance",
+        "attribute3": "7.5% Health Damage"
+      },
+      {
+        "name": "Cuélebre – Military M870",
+        "dmg": "695,775",
+        "rpm": 75,
+        "talent": "Perfect Jazz Hands",
+        "attribute1": "11.8% Shotgun Damage",
+        "attribute2": "9% Damage to Armor",
+        "attribute3": "7.5% Critical Hit Chance"
+      }
+    ],
+    "mods": []
+  },
   "The Theater": {
     "gears": [
       {
