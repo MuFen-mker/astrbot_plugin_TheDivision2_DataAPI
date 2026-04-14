@@ -121,7 +121,7 @@ def fetch_all_vendors(keywords):
 
 if __name__ == "__main__":
     keywords = [
-        'White House', 'Clan', 'The Theater', 'The Campus', 'The Castle',
+        'White House', 'Clan','Countdown', 'The Theater', 'The Campus', 'The Castle',
         'DZ West', 'DZ South', 'DZ East', 'Haven', 'The Bridge', 'Cassie'
     ]
     data = fetch_all_vendors(keywords)
