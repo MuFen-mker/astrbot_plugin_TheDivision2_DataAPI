@@ -6,8 +6,8 @@
         "brand": "5.11 Tactical",
         "type": "Backpack",
         "Core": "127,819 Armor",
-        "secondary1": "3,855 Armor Regeneration",
-        "secondary2": "7.6% Skill Damage",
+        "attribute1": "3,855 Armor Regeneration",
+        "attribute2": "7.6% Skill Damage",
         "talent": "Concussion"
       },
       {
@@ -15,8 +15,8 @@
         "brand": "Fenris Group AB",
         "type": "Chest",
         "Core": "15.0% Weapon Damage",
-        "secondary1": "6.0% Weapon Handling",
-        "secondary2": "7.2% Hazard Protection",
+        "attribute1": "6.0% Weapon Handling",
+        "attribute2": "7.2% Hazard Protection",
         "talent": "Gunslinger"
       }
     ],
@@ -88,8 +88,8 @@
         "brand": "Virtuoso",
         "type": "Backpack",
         "Core": "11.5% Weapon Damage",
-        "secondary1": "4,091 Armor Regeneration",
-        "secondary2": "-",
+        "attribute1": "4,091 Armor Regeneration",
+        "attribute2": "-",
         "talent": "Accelerando"
       },
       {
@@ -97,8 +97,8 @@
         "brand": "Tipping Scales",
         "type": "Kneepads",
         "Core": "9.5% Weapon Damage",
-        "secondary1": "7.5% Weapon Handling",
-        "secondary2": "-",
+        "attribute1": "7.5% Weapon Handling",
+        "attribute2": "-",
         "talent": "-"
       },
       {
@@ -106,8 +106,8 @@
         "brand": "Breaking Point",
         "type": "Kneepads",
         "Core": "11.7% Weapon Damage",
-        "secondary1": "7.9% Headshot Damage",
-        "secondary2": "-",
+        "attribute1": "7.9% Headshot Damage",
+        "attribute2": "-",
         "talent": "-"
       },
       {
@@ -115,8 +115,8 @@
         "brand": "Yaahl",
         "type": "Backpack",
         "Core": "170,000 Armor",
-        "secondary1": "4,293 Armor Regeneration",
-        "secondary2": "7.7% Hazard Protection",
+        "attribute1": "4,293 Armor Regeneration",
+        "attribute2": "7.7% Hazard Protection",
         "talent": "Clutch"
       },
       {
@@ -124,8 +124,8 @@
         "brand": "Empress International",
         "type": "Chest",
         "Core": "1 Skill Tier",
-        "secondary1": "11.2% Skill Haste",
-        "secondary2": "6.3% Headshot Damage",
+        "attribute1": "11.2% Skill Haste",
+        "attribute2": "6.3% Headshot Damage",
         "talent": "Overwatch"
       },
       {
@@ -133,8 +133,8 @@
         "brand": "Sokolov Concern",
         "type": "Gloves",
         "Core": "10.1% Weapon Damage",
-        "secondary1": "5.8% Critical Hit Chance",
-        "secondary2": "9.8% Critical Hit Damage",
+        "attribute1": "5.8% Critical Hit Chance",
+        "attribute2": "9.8% Critical Hit Damage",
         "talent": "-"
       }
     ],
@@ -215,8 +215,8 @@
         "brand": "Zwiadowka Sp. z o.o.",
         "type": "Gloves",
         "Core": "11.9% Weapon Damage",
-        "secondary1": "15.0% Weapon Handling",
-        "secondary2": "9.7% Critical Hit Damage",
+        "attribute1": "15.0% Weapon Handling",
+        "attribute2": "9.7% Critical Hit Damage",
         "talent": "-"
       },
       {
@@ -224,8 +224,8 @@
         "brand": "Alps Summit Armaments",
         "type": "Gloves",
         "Core": "1 Skill Tier",
-        "secondary1": "10.0% Skill Haste",
-        "secondary2": "6.0% Weapon Handling",
+        "attribute1": "10.0% Skill Haste",
+        "attribute2": "6.0% Weapon Handling",
         "talent": "-"
       },
       {
@@ -233,8 +233,8 @@
         "brand": "Wyvern Wear",
         "type": "Kneepads",
         "Core": "1 Skill Tier",
-        "secondary1": "15,241 Health",
-        "secondary2": "9.9% Skill Haste",
+        "attribute1": "15,241 Health",
+        "attribute2": "9.9% Skill Haste",
         "talent": "-"
       }
     ],
@@ -293,8 +293,8 @@
         "brand": "Electrique",
         "type": "Mask",
         "Core": "1 Skill Tier",
-        "secondary1": "7.5% Explosive Resistance",
-        "secondary2": "15,995 Health",
+        "attribute1": "7.5% Explosive Resistance",
+        "attribute2": "15,995 Health",
         "talent": "-"
       },
       {
@@ -302,8 +302,8 @@
         "brand": "Overlord Armaments",
         "type": "Holster",
         "Core": "10.9% Weapon Damage",
-        "secondary1": "16.9% Repair Skills",
-        "secondary2": "3,764 Armor Regeneration",
+        "attribute1": "16.9% Repair Skills",
+        "attribute2": "3,764 Armor Regeneration",
         "talent": "-"
       }
     ],
@@ -371,8 +371,8 @@
         "brand": "Douglas & Harding",
         "type": "Mask",
         "Core": "11.1% Weapon Damage",
-        "secondary1": "20.0% Headshot Damage",
-        "secondary2": "17.6% Repair Skills",
+        "attribute1": "20.0% Headshot Damage",
+        "attribute2": "17.6% Repair Skills",
         "talent": "-"
       },
       {
@@ -380,8 +380,8 @@
         "brand": "Providence Defense",
         "type": "Mask",
         "Core": "11.1% Weapon Damage",
-        "secondary1": "8.6% Status Effects",
-        "secondary2": "6.0% Weapon Handling",
+        "attribute1": "8.6% Status Effects",
+        "attribute2": "6.0% Weapon Handling",
         "talent": "-"
       },
       {
@@ -389,8 +389,8 @@
         "brand": "Shiny Monkey Gear",
         "type": "Holster",
         "Core": "1 Skill Tier",
-        "secondary1": "8.2% Explosive Resistance",
-        "secondary2": "5.9% Skill Damage",
+        "attribute1": "8.2% Explosive Resistance",
+        "attribute2": "5.9% Skill Damage",
         "talent": "-"
       }
     ],
@@ -449,8 +449,8 @@
         "brand": "Hotshot",
         "type": "Gloves",
         "Core": "10.6% Weapon Damage",
-        "secondary1": "4.4% Critical Hit Chance",
-        "secondary2": "-",
+        "attribute1": "4.4% Critical Hit Chance",
+        "attribute2": "-",
         "talent": "-"
       },
       {
@@ -458,8 +458,8 @@
         "brand": "Hard Wired",
         "type": "Kneepads",
         "Core": "1 Skill Tier",
-        "secondary1": "15.9% Repair Skills",
-        "secondary2": "-",
+        "attribute1": "15.9% Repair Skills",
+        "attribute2": "-",
         "talent": "-"
       },
       {
@@ -467,8 +467,8 @@
         "brand": "Murakami Industries",
         "type": "Gloves",
         "Core": "1 Skill Tier",
-        "secondary1": "7.3% Headshot Damage",
-        "secondary2": "7.3% Skill Damage",
+        "attribute1": "7.3% Headshot Damage",
+        "attribute2": "7.3% Skill Damage",
         "talent": "-"
       },
       {
@@ -476,8 +476,8 @@
         "brand": "Douglas & Harding",
         "type": "Kneepads",
         "Core": "10.3% Weapon Damage",
-        "secondary1": "6.0% Weapon Handling",
-        "secondary2": "15,633 Health",
+        "attribute1": "6.0% Weapon Handling",
+        "attribute2": "15,633 Health",
         "talent": "-"
       }
     ],
@@ -545,8 +545,8 @@
         "brand": "Refactor",
         "type": "Backpack",
         "Core": "115,448 Armor",
-        "secondary1": "9.9% Critical Hit Damage",
-        "secondary2": "-",
+        "attribute1": "9.9% Critical Hit Damage",
+        "attribute2": "-",
         "talent": "Over-Engineered"
       },
       {
@@ -554,8 +554,8 @@
         "brand": "Tipping Scales",
         "type": "Chest",
         "Core": "11.8% Weapon Damage",
-        "secondary1": "4.4% Critical Hit Chance",
-        "secondary2": "-",
+        "attribute1": "4.4% Critical Hit Chance",
+        "attribute2": "-",
         "talent": "Sustainability"
       },
       {
@@ -563,8 +563,8 @@
         "brand": "China Light Industries Corporation",
         "type": "Backpack",
         "Core": "1 Skill Tier",
-        "secondary1": "16.3% Repair Skills",
-        "secondary2": "7.4% Headshot Damage",
+        "attribute1": "16.3% Repair Skills",
+        "attribute2": "7.4% Headshot Damage",
         "talent": "Clutch"
       },
       {
@@ -572,8 +572,8 @@
         "brand": "Palisade Steelworks",
         "type": "Chest",
         "Core": "120,039 Armor",
-        "secondary1": "3,743 Armor Regeneration",
-        "secondary2": "15,506 Health",
+        "attribute1": "3,743 Armor Regeneration",
+        "attribute2": "15,506 Health",
         "talent": "Tamper Proof"
       },
       {
@@ -581,8 +581,8 @@
         "brand": "Walker, Harris & Co.",
         "type": "Backpack",
         "Core": "7.4% Weapon Damage",
-        "secondary1": "7.0% Weapon Handling",
-        "secondary2": "7.6% Explosive Resistance",
+        "attribute1": "7.0% Weapon Handling",
+        "attribute2": "7.6% Explosive Resistance",
         "talent": "Perfect Adrenaline Rush"
       }
     ],
@@ -645,8 +645,8 @@
         "brand": "Wyvern Wear",
         "type": "Holster",
         "Core": "1 Skill Tier",
-        "secondary1": "6.0% Weapon Handling",
-        "secondary2": "11.0 Pistol Damage",
+        "attribute1": "6.0% Weapon Handling",
+        "attribute2": "11.0 Pistol Damage",
         "talent": "-"
       },
       {
@@ -654,8 +654,8 @@
         "brand": "Cavalier",
         "type": "Mask",
         "Core": "121,672 Armor",
-        "secondary1": "15,618 Health",
-        "secondary2": "-",
+        "attribute1": "15,618 Health",
+        "attribute2": "-",
         "talent": "-"
       },
       {
@@ -663,8 +663,8 @@
         "brand": "Breaking Point",
         "type": "Holster",
         "Core": "11.2% Weapon Damage",
-        "secondary1": "10.3% Critical Hit Damage",
-        "secondary2": "-",
+        "attribute1": "10.3% Critical Hit Damage",
+        "attribute2": "-",
         "talent": "-"
       },
       {
@@ -672,8 +672,8 @@
         "brand": "Belstone Armory",
         "type": "Mask",
         "Core": "91,284 Armor",
-        "secondary1": "4,840 Armor Regeneration",
-        "secondary2": "7.4% Status Effects",
+        "attribute1": "4,840 Armor Regeneration",
+        "attribute2": "7.4% Status Effects",
         "talent": "-"
       },
       {
@@ -681,8 +681,8 @@
         "brand": "Sokolov Concern",
         "type": "Holster",
         "Core": "6.6% Weapon Damage",
-        "secondary1": "6.5% Weapon Handling",
-        "secondary2": "12.0% Critical Hit Damage",
+        "attribute1": "6.5% Weapon Handling",
+        "attribute2": "12.0% Critical Hit Damage",
         "talent": "-"
       }
     ],
@@ -741,8 +741,8 @@
         "brand": "Imminence Armaments",
         "type": "Chest",
         "Core": "10.0% Weapon Damage",
-        "secondary1": "8.5% Hazard Protection",
-        "secondary2": "4.2% Critical Hit Chance",
+        "attribute1": "8.5% Hazard Protection",
+        "attribute2": "4.2% Critical Hit Chance",
         "talent": "Trauma"
       },
       {
@@ -750,8 +750,8 @@
         "brand": "Providence Defense",
         "type": "Kneepads",
         "Core": "12.5% Weapon Damage",
-        "secondary1": "10.9% Critical Hit Damage",
-        "secondary2": "12,688 Health",
+        "attribute1": "10.9% Critical Hit Damage",
+        "attribute2": "12,688 Health",
         "talent": "-"
       },
       {
@@ -759,8 +759,8 @@
         "brand": "Badger Tuff",
         "type": "Holster",
         "Core": "117,645 Armor",
-        "secondary1": "15.8% Repair Skills",
-        "secondary2": "8.3% Status Effects",
+        "attribute1": "15.8% Repair Skills",
+        "attribute2": "8.3% Status Effects",
         "talent": "-"
       }
     ],
@@ -837,8 +837,8 @@
         "brand": "Imminence Armaments",
         "type": "Chest",
         "Core": "9.5% Weapon Damage",
-        "secondary1": "5.5% Weapon Handling",
-        "secondary2": "17.9% Repair Skills",
+        "attribute1": "5.5% Weapon Handling",
+        "attribute2": "17.9% Repair Skills",
         "talent": "Explosive Delivery"
       },
       {
@@ -846,8 +846,8 @@
         "brand": "Empress International",
         "type": "Kneepads",
         "Core": "1 Skill Tier",
-        "secondary1": "10.0% Skill Haste",
-        "secondary2": "4.8% Critical Hit Chance",
+        "attribute1": "10.0% Skill Haste",
+        "attribute2": "4.8% Critical Hit Chance",
         "talent": "-"
       },
       {
@@ -855,8 +855,8 @@
         "brand": "Legatus S.p.A.",
         "type": "Mask",
         "Core": "13.1% Weapon Damage",
-        "secondary1": "3,921 Armor Regeneration",
-        "secondary2": "7.6% Status Effects",
+        "attribute1": "3,921 Armor Regeneration",
+        "attribute2": "7.6% Status Effects",
         "talent": "-"
       }
     ],
@@ -933,8 +933,8 @@
         "brand": "Hana-U Corporation",
         "type": "Backpack",
         "Core": "1 Skill Tier",
-        "secondary1": "16.9% Repair Skills",
-        "secondary2": "7.7% Explosive Resistance",
+        "attribute1": "16.9% Repair Skills",
+        "attribute2": "7.7% Explosive Resistance",
         "talent": "Perfect Combined Arms"
       },
       {
@@ -942,8 +942,8 @@
         "brand": "Golan Gear Ltd",
         "type": "Chest",
         "Core": "120,024 Armor",
-        "secondary1": "15,505 Health",
-        "secondary2": "10.0% Status Effects",
+        "attribute1": "15,505 Health",
+        "attribute2": "10.0% Status Effects",
         "talent": "Perfect Intimidate"
       },
       {
@@ -951,8 +951,8 @@
         "brand": "Concentrated Company",
         "type": "Backpack",
         "Core": "9.5% Weapon Damage",
-        "secondary1": "7.5% Weapon Handling",
-        "secondary2": "-",
+        "attribute1": "7.5% Weapon Handling",
+        "attribute2": "-",
         "talent": "One for All"
       },
       {
@@ -960,8 +960,8 @@
         "brand": "Concentrated Company",
         "type": "Chest",
         "Core": "11.7% Weapon Damage",
-        "secondary1": "7.9% Headshot Damage",
-        "secondary2": "-",
+        "attribute1": "7.9% Headshot Damage",
+        "attribute2": "-",
         "talent": "All for One"
       },
       {
@@ -969,8 +969,8 @@
         "brand": "Aegis",
         "type": "Gloves",
         "Core": "118,900 Armor",
-        "secondary1": "4,567 Armor Regeneration",
-        "secondary2": "-",
+        "attribute1": "4,567 Armor Regeneration",
+        "attribute2": "-",
         "talent": "-"
       },
       {
@@ -978,8 +978,8 @@
         "brand": "Umbra Initiative",
         "type": "Kneepads",
         "Core": "141,867 Armor",
-        "secondary1": "4,128 Armor Regeneration",
-        "secondary2": "-",
+        "attribute1": "4,128 Armor Regeneration",
+        "attribute2": "-",
         "talent": "-"
       },
       {
@@ -987,8 +987,8 @@
         "brand": "Negotiator's Dilemma",
         "type": "Holster",
         "Core": "13.0% Weapon Damage",
-        "secondary1": "6.0% Weapon Handling",
-        "secondary2": "-",
+        "attribute1": "6.0% Weapon Handling",
+        "attribute2": "-",
         "talent": "-"
       },
       {
@@ -996,8 +996,8 @@
         "brand": "Virtuoso",
         "type": "Mask",
         "Core": "11.9% Weapon Damage",
-        "secondary1": "10.6% Critical Hit Damage",
-        "secondary2": "-",
+        "attribute1": "10.6% Critical Hit Damage",
+        "attribute2": "-",
         "talent": "-"
       },
       {
@@ -1005,8 +1005,8 @@
         "brand": "Providence Defense",
         "type": "Chest",
         "Core": "10.1% Weapon Damage",
-        "secondary1": "5.8% Critical Hit Chance",
-        "secondary2": "9.8% Critical Hit Damage",
+        "attribute1": "5.8% Critical Hit Chance",
+        "attribute2": "9.8% Critical Hit Damage",
         "talent": "Gunslinger"
       },
       {
@@ -1014,8 +1014,8 @@
         "brand": "Hana-U Corporation",
         "type": "Mask",
         "Core": "1 Skill Tier",
-        "secondary1": "9.2% Hazard Protection",
-        "secondary2": "10.6% Skill Haste",
+        "attribute1": "9.2% Hazard Protection",
+        "attribute2": "10.6% Skill Haste",
         "talent": "-"
       }
     ],
