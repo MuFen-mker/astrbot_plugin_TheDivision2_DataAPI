@@ -1,2 +1,2 @@
 # astrbot_plugin_TheDivision2_DataAPI
-数据查询用
+供astrbot_plugin_TheDivision2插件获取周商数据和图标素材等
