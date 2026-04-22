@@ -2,242 +2,242 @@
   "White House": {
     "gears": [
       {
-        "name": "Artificer's Toolbox",
-        "brand": "Shiny Monkey Gear",
+        "name": "Lavoisier",
+        "brand": "Electrique",
         "type": "Backpack",
         "Core": "1 Skill Tier",
-        "attribute1": "3,859 Armor Regeneration",
-        "attribute2": "16.0% Repair Skills",
-        "talent": "Creeping Death"
+        "attribute1": "17.2% Repair Skills",
+        "attribute2": "6.3% Skill Damage",
+        "talent": "Perfect Galvanize"
       },
       {
-        "name": "Fortitude Plate Carrier",
-        "brand": "Overlord Armaments",
+        "name": "Trekking Elite Pack",
+        "brand": "Alps Summit Armaments",
+        "type": "Backpack",
+        "Core": "1 Skill Tier",
+        "attribute1": "7.8% Status Effects",
+        "attribute2": "8.7% Hazard Protection",
+        "talent": "Concussion"
+      },
+      {
+        "name": "X-TREYME Pro Ribcage",
+        "brand": "Alps Summit Armaments",
         "type": "Chest",
-        "Core": "10.6% Weapon Damage",
-        "attribute1": "10.1% Critical Hit Damage",
-        "attribute2": "7.1% Explosive Resistance",
-        "talent": "Empathic Resolve"
+        "Core": "1 Skill Tier",
+        "attribute1": "3,836 Armor Regeneration",
+        "attribute2": "7.1% Skill Damage",
+        "talent": "Overwatch"
       }
     ],
     "weapons": [
       {
-        "name": "Safety Distance - MPX",
-        "dmg": "53,124",
-        "rpm": 850,
-        "talent": "Perfect Outsider",
-        "attribute1": "10.8% SMG Damage",
-        "attribute2": "16.5% Critical Hit Chance",
+        "name": "Black Market T821",
+        "dmg": "66,757",
+        "rpm": 550,
+        "talent": "Strained",
+        "attribute1": "11.6% SMG Damage",
+        "attribute2": "16% Critical Hit Chance",
+        "attribute3": "12% Swap Speed"
+      },
+      {
+        "name": "AK-M",
+        "dmg": "52,056",
+        "rpm": 600,
+        "talent": "Preservation",
+        "attribute1": "10.9% AR Damage",
+        "attribute2": "14% Health Damage",
         "attribute3": "7% Damage Out of Cover"
       },
       {
-        "name": "Tactical AUG A3P",
-        "dmg": "57,825",
-        "rpm": 725,
-        "talent": "Streamline",
-        "attribute1": "10.3% SMG Damage",
-        "attribute2": "15% Critical Hit Chance",
-        "attribute3": "7.5% Health Damage"
-      },
-      {
-        "name": "FAL SA-58 Para",
-        "dmg": "56,885",
-        "rpm": 650,
-        "talent": "Sadist",
-        "attribute1": "11.2% AR Damage",
-        "attribute2": "15.5% Health Damage",
-        "attribute3": "8% Critical Hit Damage"
-      },
-      {
-        "name": "Snubnosed Diceros",
-        "dmg": "169,243",
-        "rpm": 180,
-        "talent": "Strained",
-        "attribute1": "11.9% Pistol Damage",
-        "attribute2": "5% Damage to Armor",
+        "name": "Px4 Storm Type F",
+        "dmg": "79,920",
+        "rpm": 380,
+        "talent": "Salvage",
+        "attribute1": "9.2% Pistol Damage",
+        "attribute2": "7% Health Damage",
         "attribute3": "-"
       }
     ],
     "mods": [
       {
-        "name": "Offensive Protocol: Critical",
+        "name": "Offensive System: Dexterity",
         "type": "护甲模组",
-        "attributes": "10.3% Critical Hit Damage"
+        "attributes": "7.0% Headshot Damage"
       },
       {
-        "name": "Hollow-point Bullets",
+        "name": "Carbon Fiber Frame",
         "type": "Drone",
-        "attributes": "4.8% Damage Reduction"
+        "attributes": "8.4% Health"
       },
       {
-        "name": "SHD CPU V.2",
+        "name": "Magnetic Rail",
         "type": "Turret",
-        "attributes": "5.8% Duration"
+        "attributes": "4.2% Damage"
       },
       {
         "name": "Improved Sticky Launcher",
         "type": "Sticky Bomb",
-        "attributes": "4.8% Blast Radius"
+        "attributes": "4.2% Skill Haste"
       }
     ]
   },
   "Clan": {
     "gears": [
       {
-        "name": "Abberton Dynamo Carrier",
-        "brand": "Hard Wired",
-        "type": "Backpack",
-        "Core": "1 Skill Tier",
-        "attribute1": "17.2% Repair Skills",
-        "attribute2": "-",
-        "talent": "Short Circuit"
-      },
-      {
-        "name": "Knee Poleyn",
-        "brand": "Ongoing Directive",
-        "type": "Kneepads",
-        "Core": "15.0% Weapon Damage",
-        "attribute1": "9.3% Critical Hit Damage",
-        "attribute2": "-",
-        "talent": "-"
-      },
-      {
-        "name": "Cavalier Holster",
-        "brand": "Cavalier",
-        "type": "Holster",
-        "Core": "139,246 Armor",
-        "attribute1": "8.2% Skill Damage",
-        "attribute2": "-",
-        "talent": "-"
-      },
-      {
-        "name": "Bauta Mask",
+        "name": "Vigil",
         "brand": "Legatus S.p.A.",
-        "type": "Mask",
-        "Core": "11.1% Weapon Damage",
-        "attribute1": "11.0% Critical Hit Damage",
-        "attribute2": "10.3% Skill Haste",
-        "talent": "-"
+        "type": "Backpack",
+        "Core": "12.7% Weapon Damage",
+        "attribute1": "15.7% Repair Skills",
+        "attribute2": "4,083 Armor Regeneration",
+        "talent": "Perfect Versatile"
       },
       {
-        "name": "EXO.K1 Kneepad",
-        "brand": "5.11 Tactical",
-        "type": "Kneepads",
-        "Core": "121,283 Armor",
-        "attribute1": "4.5% Critical Hit Chance",
-        "attribute2": "10.9% Skill Haste",
-        "talent": "-"
+        "name": "Loadout Frame",
+        "brand": "Ongoing Directive",
+        "type": "Backpack",
+        "Core": "11.7% Weapon Damage",
+        "attribute1": "17.0% Repair Skills",
+        "attribute2": "-",
+        "talent": "Trauma Specialist"
       },
       {
-        "name": "Artisan Holster",
-        "brand": "Shiny Monkey Gear",
+        "name": "Ever-ready Holster",
+        "brand": "Heartbreaker",
         "type": "Holster",
-        "Core": "1 Skill Tier",
-        "attribute1": "10.4% Critical Hit Damage",
-        "attribute2": "6.5% Weapon Handling",
+        "Core": "135,540 Armor",
+        "attribute1": "10.9% Critical Hit Damage",
+        "attribute2": "-",
         "talent": "-"
       },
       {
-        "name": "Labored Kneepads",
-        "brand": "Shiny Monkey Gear",
-        "type": "Kneepads",
+        "name": "Concealed Breath Mask",
+        "brand": "Heartbreaker",
+        "type": "Mask",
+        "Core": "170,000 Armor",
+        "attribute1": "3,303 Armor Regeneration",
+        "attribute2": "-",
+        "talent": "-"
+      },
+      {
+        "name": "Filter Mask",
+        "brand": "Hana-U Corporation",
+        "type": "Mask",
         "Core": "1 Skill Tier",
-        "attribute1": "4.7% Critical Hit Chance",
-        "attribute2": "7.5% Explosive Resistance",
+        "attribute1": "4,099 Armor Regeneration",
+        "attribute2": "7.8% Skill Damage",
+        "talent": "-"
+      },
+      {
+        "name": "Electrique Mask",
+        "brand": "Electrique",
+        "type": "Mask",
+        "Core": "1 Skill Tier",
+        "attribute1": "8.9% Status Effects",
+        "attribute2": "10.4% Skill Haste",
+        "talent": "-"
+      },
+      {
+        "name": "Guardrail VI Face Rig",
+        "brand": "Petrov Defense Group",
+        "type": "Mask",
+        "Core": "15.0% Weapon Damage",
+        "attribute1": "6.9% Headshot Damage",
+        "attribute2": "4.3% Critical Hit Chance",
+        "talent": "-"
+      },
+      {
+        "name": "Sidewinder Kneepads",
+        "brand": "Gila Guard",
+        "type": "Kneepads",
+        "Core": "127,425 Armor",
+        "attribute1": "11.0% Skill Haste",
+        "attribute2": "8.0% Explosive Resistance",
+        "talent": "-"
+      },
+      {
+        "name": "HG Holster",
+        "brand": "Habsburg Guard",
+        "type": "Holster",
+        "Core": "131,191 Armor",
+        "attribute1": "8.7% Hazard Protection",
+        "attribute2": "16,272 Health",
         "talent": "-"
       }
     ],
     "weapons": [
       {
-        "name": "Quiet Roar - Stoner LAMG",
-        "dmg": "47,952",
-        "rpm": 580,
-        "talent": "Perfect Overwhelm",
-        "attribute1": "9.6% LMG Damage",
-        "attribute2": "9% Damage Out of Cover",
-        "attribute3": "6% Damage to Armor"
-      },
-      {
-        "name": "Classic M1A",
-        "dmg": "205,442",
+        "name": "SASG-12",
+        "dmg": "364,812",
         "rpm": 180,
-        "talent": "Lucky Shot",
-        "attribute1": "15% Rifle Damage",
-        "attribute2": "15% Critical Hit Damage",
-        "attribute3": "5% Critical Hit Chance"
-      },
-      {
-        "name": "Military M9",
-        "dmg": "81,801",
-        "rpm": 350,
-        "talent": "Determined",
-        "attribute1": "11.7% Pistol Damage",
-        "attribute2": "8% Critical Hit Damage",
-        "attribute3": "-"
-      },
-      {
-        "name": "Marine Super 90",
-        "dmg": "440,031",
-        "rpm": 160,
-        "talent": "Thunder Strike",
-        "attribute1": "12.2% Shotgun Damage",
+        "talent": "Pressure Point",
+        "attribute1": "9.9% Shotgun Damage",
         "attribute2": "10% Damage to Armor",
-        "attribute3": "10% Magazine Size"
+        "attribute3": "8% Damage Out of Cover"
+      },
+      {
+        "name": "Mk16",
+        "dmg": "55,504",
+        "rpm": 625,
+        "talent": "Overflowing",
+        "attribute1": "11.8% AR Damage",
+        "attribute2": "14% Health Damage",
+        "attribute3": "12.9% Swap Speed"
       }
     ],
     "mods": [
       {
         "name": "Utility System: Electronics",
         "type": "护甲模组",
-        "attributes": "9.0% Skill Duration"
+        "attributes": "17.0% Repair Skills"
       },
       {
-        "name": "Utility Protocol: Intensity",
+        "name": "Defensive Protocol: Stamina",
         "type": "护甲模组",
-        "attributes": "9.0% Skill Duration"
+        "attributes": "8.8% Bleed Resistance"
       },
       {
-        "name": "Trap Charge Improvement",
-        "type": "Trap",
-        "attributes": "4.4% Duration"
+        "name": "Defensive Protocol: Resilience",
+        "type": "护甲模组",
+        "attributes": "11.0% Protection from Elites"
       },
       {
-        "name": "Supramolecular Networks",
-        "type": "Shield",
-        "attributes": "4.0 Damage Bonus Per Enemy"
+        "name": "Additional Ordnance",
+        "type": "Drone",
+        "attributes": "6.8% Armor Repair"
       }
     ]
   },
   "Countdown": {
     "gears": [
       {
-        "name": "Spot-on",
-        "brand": "Urban Lookout",
+        "name": "Picaro's Holster",
+        "brand": "Brazos de Arcabuz",
         "type": "Holster",
-        "Core": "12.3% Weapon Damage",
-        "attribute1": "38.0% Accuracy",
-        "attribute2": "10.8% Critical Hit Damage",
+        "Core": "170,000 Armor",
+        "attribute1": "9.6% Status Effects",
+        "attribute2": "10.0% Weapon Damage",
         "talent": "-"
       }
     ],
     "weapons": [
       {
-        "name": "Cabaret - MP5 ST",
-        "dmg": "51,713",
-        "rpm": 800,
-        "talent": "Perfect Thunder Strike",
-        "attribute1": "11.9% SMG Damage",
-        "attribute2": "16.5% Critical Hit Chance",
-        "attribute3": "7.5% Health Damage"
+        "name": "Mechanical Animal",
+        "dmg": "50,773",
+        "rpm": 720,
+        "talent": "Future Perfection",
+        "attribute1": "14.3% AR Damage",
+        "attribute2": "17% Health Damage",
+        "attribute3": "9% Headshot Damage"
       },
       {
-        "name": "Cuélebre – Military M870",
-        "dmg": "695,775",
-        "rpm": 75,
-        "talent": "Perfect Jazz Hands",
-        "attribute1": "11.8% Shotgun Damage",
-        "attribute2": "9% Damage to Armor",
-        "attribute3": "7.5% Critical Hit Chance"
+        "name": "Dark Winter - Vector SBR .45 ACP",
+        "dmg": "40,430",
+        "rpm": 1200,
+        "talent": "Perfect Killer",
+        "attribute1": "7% SMG Damage",
+        "attribute2": "17% Critical Hit Chance",
+        "attribute3": "6% Damage to Armor"
       }
     ],
     "mods": []
@@ -245,21 +245,21 @@
   "The Theater": {
     "gears": [
       {
-        "name": "Mud Resistant Gloves",
-        "brand": "Urban Lookout",
+        "name": "Kote Hand Guards",
+        "brand": "Murakami Industries",
         "type": "Gloves",
-        "Core": "10.9% Weapon Damage",
-        "attribute1": "7.8% Skill Damage",
-        "attribute2": "7.3% Explosive Resistance",
+        "Core": "1 Skill Tier",
+        "attribute1": "10.2% Skill Haste",
+        "attribute2": "10.2% Critical Hit Damage",
         "talent": "-"
       },
       {
-        "name": "Hulian Joint Braces",
-        "brand": "Richter & Kaiser",
+        "name": "Urban Warfare Kneepads",
+        "brand": "Providence Defense",
         "type": "Kneepads",
-        "Core": "1 Skill Tier",
-        "attribute1": "10.0% Skill Haste",
-        "attribute2": "4.5% Critical Hit Chance",
+        "Core": "10.2% Weapon Damage",
+        "attribute1": "9.2% Headshot Damage",
+        "attribute2": "14.1% Repair Skills",
         "talent": "-"
       }
     ],
@@ -269,305 +269,306 @@
         "dmg": "84,622",
         "rpm": 400,
         "talent": "Perfectly Behind You",
-        "attribute1": "9.7% Rifle Damage",
-        "attribute2": "13% Critical Hit Damage",
-        "attribute3": "18.5% Optimal Range"
+        "attribute1": "11.4% Rifle Damage",
+        "attribute2": "9% Critical Hit Damage",
+        "attribute3": "10% Headshot Damage"
       },
       {
-        "name": "SASG-12",
-        "dmg": "364,812",
-        "rpm": 180,
-        "talent": "Ignited",
-        "attribute1": "11.6% Shotgun Damage",
-        "attribute2": "9% Damage to Armor",
-        "attribute3": "11.9% Swap Speed"
+        "name": "ACS-12",
+        "dmg": "169,243",
+        "rpm": 300,
+        "talent": "Killer",
+        "attribute1": "11.2% Shotgun Damage",
+        "attribute2": "10% Damage to Armor",
+        "attribute3": "6.5% Critical Hit Chance"
       },
       {
-        "name": "SIG 716 CQB",
-        "dmg": "99,665",
-        "rpm": 320,
-        "talent": "Eyeless",
-        "attribute1": "14.2% Rifle Damage",
-        "attribute2": "16% Critical Hit Damage",
-        "attribute3": "4% Damage Out of Cover"
+        "name": "ACR SS",
+        "dmg": "92,614",
+        "rpm": 420,
+        "talent": "Streamline",
+        "attribute1": "8.6% Rifle Damage",
+        "attribute2": "17% Critical Hit Damage",
+        "attribute3": "6.9% Reload Speed"
       }
     ],
     "mods": [
       {
-        "name": "Defensive Protocol: Stamina",
+        "name": "Defensive Protocol: Resilience",
         "type": "护甲模组",
-        "attributes": "8.6% Disorient Resistance"
+        "attributes": "8.5% Disrupt Resistance"
       },
       {
-        "name": "Mini Electric Motor",
+        "name": "Brushless DC-motor",
         "type": "Seeker Mine",
-        "attributes": "4.9% Skill Haste"
+        "attributes": "4.3% Radius"
       },
       {
-        "name": "Smart UHMWPE Lexicon",
+        "name": "Adaptive Insulation Foam",
         "type": "Shield",
-        "attributes": "4.3% Shield Health"
+        "attributes": "4.2% Active Regeneration"
       },
       {
-        "name": "RAM Surplus",
+        "name": "Hardened Casing",
         "type": "Firefly",
-        "attributes": "1 Max Targets"
+        "attributes": "8.1% Speed"
       },
       {
-        "name": "Decoy Projector Internals",
+        "name": "Decoy Housing Shell",
         "type": "Decoy",
-        "attributes": "6.0% Duration"
+        "attributes": "6.0% Health"
       }
     ]
   },
   "The Campus": {
     "gears": [
       {
-        "name": "Salvo",
-        "brand": "Unit Alloys",
-        "type": "Holster",
-        "Core": "10.8% Weapon Damage",
-        "attribute1": "5.0% Rate of Fire",
-        "attribute2": "7.3% Skill Damage",
-        "talent": "-"
-      },
-      {
-        "name": "Special Operations Mask",
-        "brand": "Sokolov Concern",
+        "name": "Javelina Mask",
+        "brand": "Gila Guard",
         "type": "Mask",
-        "Core": "10.0% Weapon Damage",
-        "attribute1": "6.0% Weapon Handling",
-        "attribute2": "9.8% Critical Hit Damage",
+        "Core": "121,714 Armor",
+        "attribute1": "8.3% Hazard Protection",
+        "attribute2": "15,277 Health",
         "talent": "-"
       },
       {
-        "name": "Rough Holster",
-        "brand": "Urban Lookout",
+        "name": "Reconnaissance Holster",
+        "brand": "Česká Výroba s.r.o.",
         "type": "Holster",
-        "Core": "9.8% Weapon Damage",
-        "attribute1": "4.6% Critical Hit Chance",
-        "attribute2": "9.7% Critical Hit Damage",
+        "Core": "10.1% Weapon Damage",
+        "attribute1": "7.4% Headshot Damage",
+        "attribute2": "16,466 Health",
         "talent": "-"
       }
     ],
     "weapons": [
       {
-        "name": "M700 Tactical",
-        "dmg": "376,096",
-        "rpm": 54,
-        "talent": "Breadbasket",
-        "attribute1": "10.7% MMR Damage",
-        "attribute2": "94% Headshot Damage",
-        "attribute3": "7% Critical Hit Damage"
+        "name": "Commando - Paratrooper SVD",
+        "dmg": "159,841",
+        "rpm": 260,
+        "talent": "Perfectly Naked",
+        "attribute1": "10.6% MMR Damage",
+        "attribute2": "90% Headshot Damage",
+        "attribute3": "18% Optimal Range"
       },
       {
-        "name": "GR9",
-        "dmg": "37,610",
-        "rpm": 750,
-        "talent": "Steady Handed",
-        "attribute1": "11% LMG Damage",
+        "name": "Hunting M44",
+        "dmg": "416,056",
+        "rpm": 55,
+        "talent": "Eyeless",
+        "attribute1": "10.5% MMR Damage",
+        "attribute2": "90% Headshot Damage",
+        "attribute3": "7% Critical Hit Chance"
+      },
+      {
+        "name": "Classic RPK-74",
+        "dmg": "55,474",
+        "rpm": 650,
+        "talent": "Measured",
+        "attribute1": "10.6% LMG Damage",
         "attribute2": "9% Damage Out of Cover",
-        "attribute3": "5% Damage to Armor"
-      },
-      {
-        "name": "Relic - G28",
-        "dmg": "146,677",
-        "rpm": 275,
-        "talent": "Perfectly Determined",
-        "attribute1": "9.1% MMR Damage",
-        "attribute2": "84% Headshot Damage",
-        "attribute3": "8.5% Critical Hit Chance"
-      },
-      {
-        "name": "SOCOM Mk20 SSR",
-        "dmg": "143,857",
-        "rpm": 275,
-        "talent": "Precision Strike",
-        "attribute1": "11.4% MMR Damage",
-        "attribute2": "88% Headshot Damage",
-        "attribute3": "9.5% Magazine Size"
-      },
-      {
-        "name": "Classic M60",
-        "dmg": "63,466",
-        "rpm": 500,
-        "talent": "Sledgehammer",
-        "attribute1": "8.4% LMG Damage",
-        "attribute2": "10% Damage Out of Cover",
-        "attribute3": "8% Critical Hit Damage"
+        "attribute3": "11.7% Swap Speed"
       }
     ],
     "mods": [
       {
-        "name": "Utility Protocol: Intensity",
+        "name": "Utility System: Assist",
         "type": "护甲模组",
-        "attributes": "8.2% Skill Duration"
+        "attributes": "10.1% Skill Haste"
       },
       {
-        "name": "Cell Penetrating Peptide",
+        "name": "Piranha Solution",
         "type": "Chem Launcher",
-        "attributes": "5.8% Heal"
+        "attributes": "13.0% Ensnare Health"
       },
       {
         "name": "Extra Payload",
         "type": "Hive",
-        "attributes": "8.4% Revived Armor"
+        "attributes": "4.3% Damage"
       },
       {
         "name": "Exploded Blueprint",
         "type": "Pulse",
-        "attributes": "4.9% Skill Haste"
+        "attributes": "14.8% Health"
       },
       {
-        "name": "Trap Charge Improvement",
+        "name": "Trap Electronics Upgrade",
         "type": "Trap",
-        "attributes": "4.2% Duration"
+        "attributes": "6.0% Shock Radius"
       }
     ]
   },
   "The Castle": {
     "gears": [
       {
-        "name": "Steelwork Mask",
-        "brand": "Palisade Steelworks",
+        "name": "Bevor Air Guard",
+        "brand": "Belstone Armory",
         "type": "Mask",
-        "Core": "134,730 Armor",
-        "attribute1": "4,925 Armor Regeneration",
-        "attribute2": "6.9% Status Effects",
+        "Core": "102,581 Armor",
+        "attribute1": "10.2% Critical Hit Damage",
+        "attribute2": "7.4% Skill Damage",
         "talent": "-"
       },
       {
-        "name": "Constantin Sheath",
-        "brand": "Uzina Getica",
+        "name": "Electrique Holster",
+        "brand": "Electrique",
         "type": "Holster",
-        "Core": "113,064 Armor",
-        "attribute1": "10.1% Skill Haste",
-        "attribute2": "7.1% Explosive Resistance",
+        "Core": "1 Skill Tier",
+        "attribute1": "7.3% Skill Damage",
+        "attribute2": "16.3% Repair Skills",
         "talent": "-"
       }
     ],
-    "weapons": [],
+    "weapons": [
+      {
+        "name": "Rusty - Classic RPK-74",
+        "dmg": "55,474",
+        "rpm": 650,
+        "talent": "Perfect Pressure Point",
+        "attribute1": "11.1% LMG Damage",
+        "attribute2": "9% Damage Out of Cover",
+        "attribute3": "7% Critical Hit Chance"
+      },
+      {
+        "name": "Surplus SVD",
+        "dmg": "159,841",
+        "rpm": 260,
+        "talent": "Perpetuation",
+        "attribute1": "11% MMR Damage",
+        "attribute2": "86% Headshot Damage",
+        "attribute3": "5% Damage to Armor"
+      },
+      {
+        "name": "Stoner LAMG",
+        "dmg": "47,952",
+        "rpm": 580,
+        "talent": "Stabilize",
+        "attribute1": "15% LMG Damage",
+        "attribute2": "8% Damage Out of Cover",
+        "attribute3": "3.3% Rate of Fire"
+      }
+    ],
     "mods": [
       {
-        "name": "Utility System: Assist",
+        "name": "Utility System: Electronics",
         "type": "护甲模组",
-        "attributes": "16.6% Repair Skills"
+        "attributes": "8.6% Skill Duration"
       },
       {
-        "name": "Liquid Nitrogen Cooling System",
+        "name": "Disintegrating Links",
         "type": "Chem Launcher",
-        "attributes": "5.7% Radius"
+        "attributes": "1 Ammo"
       },
       {
-        "name": "Backpack Battery",
+        "name": "Nitroglycerin Mixture",
         "type": "Hive",
-        "attributes": "4.2% Duration"
+        "attributes": "4 Stim Charges"
       },
       {
-        "name": "Heating Mantle",
+        "name": "Unstable Oscillator",
         "type": "Pulse",
-        "attributes": "14.6% Health"
+        "attributes": "8.7% Radius"
       },
       {
-        "name": "Trap Charge Improvement",
+        "name": "Trap Electronics Upgrade",
         "type": "Trap",
-        "attributes": "4.2% Duration"
+        "attributes": "5.8% Shock Radius"
       }
     ]
   },
   "DZ West": {
     "gears": [
       {
-        "name": "Crucible Gauntlets",
-        "brand": "Foundry Bulwark",
-        "type": "Gloves",
-        "Core": "62,360 Armor",
-        "attribute1": "20.0% Repair Skills",
-        "attribute2": "-",
-        "talent": "-"
-      },
-      {
-        "name": "Anti-Tear Joint Shielding",
+        "name": "Medical Grade Tac-Gloves",
         "brand": "Eclipse Protocol",
-        "type": "Kneepads",
+        "type": "Gloves",
         "Core": "1 Skill Tier",
-        "attribute1": "15.9% Repair Skills",
+        "attribute1": "4.4% Critical Hit Chance",
         "attribute2": "-",
         "talent": "-"
       },
       {
-        "name": "Savanna Field Gloves",
-        "brand": "Walker, Harris & Co.",
-        "type": "Gloves",
-        "Core": "8.0% Weapon Damage",
-        "attribute1": "9.8% Hazard Protection",
-        "attribute2": "13.7% Repair Skills",
+        "name": "Lowball Kneepads",
+        "brand": "Negotiator's Dilemma",
+        "type": "Kneepads",
+        "Core": "10.0% Weapon Damage",
+        "attribute1": "4.4% Critical Hit Chance",
+        "attribute2": "-",
         "talent": "-"
       },
       {
-        "name": "Yukon Kneepads",
-        "brand": "Yaahl",
+        "name": "Climbing Gloves",
+        "brand": "Alps Summit Armaments",
+        "type": "Gloves",
+        "Core": "1 Skill Tier",
+        "attribute1": "7.0% Skill Damage",
+        "attribute2": "8.3% Status Effects",
+        "talent": "-"
+      },
+      {
+        "name": "Operator Kneepads",
+        "brand": "Imminence Armaments",
         "type": "Kneepads",
-        "Core": "118,743 Armor",
-        "attribute1": "5.5% Explosive Resistance",
-        "attribute2": "18.0% Repair Skills",
+        "Core": "10.6% Weapon Damage",
+        "attribute1": "15,487 Health",
+        "attribute2": "8.6% Status Effects",
         "talent": "-"
       }
     ],
     "weapons": [
       {
-        "name": "Rock n' Roll - ACS-12",
-        "dmg": "169,243",
-        "rpm": 300,
-        "talent": "Perfectly Extra",
-        "attribute1": "11.6% Shotgun Damage",
+        "name": "Cuélebre – Military M870",
+        "dmg": "695,775",
+        "rpm": 75,
+        "talent": "Perfect Jazz Hands",
+        "attribute1": "8.8% Shotgun Damage",
+        "attribute2": "7% Damage to Armor",
+        "attribute3": "10% Damage Out of Cover"
+      },
+      {
+        "name": "SIX12",
+        "dmg": "451,314",
+        "rpm": 170,
+        "talent": "In Sync",
+        "attribute1": "11% Shotgun Damage",
         "attribute2": "9% Damage to Armor",
-        "attribute3": "12.4% Swap Speed"
+        "attribute3": "8.8% Reload Speed"
       },
       {
-        "name": "Super 90",
-        "dmg": "440,031",
-        "rpm": 160,
-        "talent": "Immobilize",
-        "attribute1": "11.4% Shotgun Damage",
-        "attribute2": "8% Damage to Armor",
-        "attribute3": "8% Critical Hit Damage"
-      },
-      {
-        "name": "Classic M1A",
-        "dmg": "205,442",
-        "rpm": 180,
-        "talent": "Back and Forth",
-        "attribute1": "9% Rifle Damage",
-        "attribute2": "13% Critical Hit Damage",
-        "attribute3": "8% Damage Out of Cover"
+        "name": "SIG 716",
+        "dmg": "97,785",
+        "rpm": 320,
+        "talent": "Flatline",
+        "attribute1": "15% Rifle Damage",
+        "attribute2": "7% Critical Hit Damage",
+        "attribute3": "7% Critical Hit Chance"
       }
     ],
     "mods": [
       {
-        "name": "Defensive Protocol: Stamina",
+        "name": "Defensive System: Mending",
         "type": "护甲模组",
-        "attributes": "11.0% Protection from Elites"
+        "attributes": "8.3% Shock Resistance"
       },
       {
-        "name": "Mini Electric Motor",
+        "name": "Ball Bearings",
         "type": "Seeker Mine",
-        "attributes": "4.1% Radius"
+        "attributes": "6.3% Health"
       },
       {
-        "name": "Adaptive Insulation Foam",
+        "name": "Smart UHMWPE Lexicon",
         "type": "Shield",
-        "attributes": "4.2% Shield Health"
+        "attributes": "4.2% Holstered Regeneration"
       },
       {
-        "name": "Tungsten Compound",
+        "name": "Micro Conduits",
         "type": "Firefly",
-        "attributes": "5.9% Blind Effect Duration"
+        "attributes": "6.0% Skill Haste"
       },
       {
-        "name": "Decoy Projector Internals",
+        "name": "Decoy Housing Shell",
         "type": "Decoy",
-        "attributes": "6.0% Duration"
+        "attributes": "6.0% Health"
       }
     ]
   },
@@ -577,74 +578,357 @@
         "name": "Loadout Frame",
         "brand": "Ongoing Directive",
         "type": "Backpack",
-        "Core": "10.4% Weapon Damage",
-        "attribute1": "3,966 Armor Regeneration",
+        "Core": "9.6% Weapon Damage",
+        "attribute1": "4.7% Critical Hit Chance",
         "attribute2": "-",
         "talent": "Trauma Specialist"
       },
       {
-        "name": "Highball Armor",
-        "brand": "Negotiator's Dilemma",
+        "name": "Striker's Harness",
+        "brand": "Striker's Battlegear",
         "type": "Chest",
-        "Core": "10.7% Weapon Damage",
-        "attribute1": "16.1% Repair Skills",
+        "Core": "9.9% Weapon Damage",
+        "attribute1": "8.9% Status Effects",
         "attribute2": "-",
-        "talent": "-"
+        "talent": "Press the Advantage"
       },
       {
-        "name": "Gila Inventory System",
-        "brand": "Gila Guard",
+        "name": "AMP24",
+        "brand": "5.11 Tactical",
         "type": "Backpack",
-        "Core": "102,450 Armor",
-        "attribute1": "14,299 Health",
-        "attribute2": "12.0% Skill Haste",
-        "talent": "Bloodsucker"
+        "Core": "133,159 Armor",
+        "attribute1": "15,073 Health",
+        "attribute2": "9.8% Skill Haste",
+        "talent": "Unstoppable Force"
       },
       {
-        "name": "Umbra Plate Carrier",
-        "brand": "Grupo Sombra S.A.",
+        "name": "Body Armor System",
+        "brand": "Providence Defense",
         "type": "Chest",
-        "Core": "10.5% Weapon Damage",
-        "attribute1": "3,951 Armor Regeneration",
-        "attribute2": "10.0% Skill Haste",
-        "talent": "Skilled"
+        "Core": "8.8% Weapon Damage",
+        "attribute1": "6.0% Headshot Damage",
+        "attribute2": "20.0% Repair Skills",
+        "talent": "Empathic Resolve"
       }
     ],
     "weapons": [
       {
-        "name": "Orbit - 586 Magnum",
-        "dmg": "190,339",
-        "rpm": 160,
-        "talent": "Perfect Finisher",
-        "attribute1": "10.5% Pistol Damage",
-        "attribute2": "8% Critical Hit Damage",
-        "attribute3": "-"
+        "name": "Swap Chain - MP7",
+        "dmg": "47,952",
+        "rpm": 950,
+        "talent": "Perfect Unwavering",
+        "attribute1": "10.5% SMG Damage",
+        "attribute2": "13.5% Critical Hit Chance",
+        "attribute3": "19% Optimal Range"
       },
+      {
+        "name": "Tactical AUG A3P",
+        "dmg": "57,825",
+        "rpm": 725,
+        "talent": "Preservation",
+        "attribute1": "11.6% SMG Damage",
+        "attribute2": "15% Critical Hit Chance",
+        "attribute3": "8.6% Reload Speed"
+      },
+      {
+        "name": "FAL",
+        "dmg": "56,885",
+        "rpm": 650,
+        "talent": "Soft Spot",
+        "attribute1": "11.5% AR Damage",
+        "attribute2": "14% Health Damage",
+        "attribute3": "8.5% Magazine Size"
+      },
+      {
+        "name": "93R",
+        "dmg": "32,908",
+        "rpm": 1100,
+        "talent": "Determined",
+        "attribute1": "6.7% Pistol Damage",
+        "attribute2": "12% Magazine Size",
+        "attribute3": "-"
+      }
+    ],
+    "mods": [
+      {
+        "name": "Offensive Protocol: Critical",
+        "type": "护甲模组",
+        "attributes": "7.2% Headshot Damage"
+      },
+      {
+        "name": "Micropulse Frequency",
+        "type": "Drone",
+        "attributes": "5.0% Damage Reduction"
+      },
+      {
+        "name": "SHD CPU V.2",
+        "type": "Turret",
+        "attributes": "5.8% Skill Haste"
+      },
+      {
+        "name": "Improved Sticky Launcher",
+        "type": "Sticky Bomb",
+        "attributes": "5.0% Blast Radius"
+      }
+    ]
+  },
+  "DZ East": {
+    "gears": [
+      {
+        "name": "The Hollow Man",
+        "brand": "Yaahl",
+        "type": "Mask",
+        "Core": "155,460 Armor",
+        "attribute1": "14.0% Damage to Health",
+        "attribute2": "8.8% Hazard Protection",
+        "talent": "-"
+      },
+      {
+        "name": "Umbra Initiative Mask",
+        "brand": "Umbra Initiative",
+        "type": "Mask",
+        "Core": "10.2% Weapon Damage",
+        "attribute1": "6.8% Explosive Resistance",
+        "attribute2": "-",
+        "talent": "-"
+      },
+      {
+        "name": "Rush Tactics Holster",
+        "brand": "Future Initiative",
+        "type": "Holster",
+        "Core": "1 Skill Tier",
+        "attribute1": "8.5% Status Effects",
+        "attribute2": "-",
+        "talent": "-"
+      },
+      {
+        "name": "Ilarion Filter",
+        "brand": "Uzina Getica",
+        "type": "Mask",
+        "Core": "140,930 Armor",
+        "attribute1": "4.8% Skill Damage",
+        "attribute2": "9.1% Status Effects",
+        "talent": "-"
+      },
+      {
+        "name": "Lengmo Holster",
+        "brand": "Lengmo",
+        "type": "Holster",
+        "Core": "114,075 Armor",
+        "attribute1": "8.2% Hazard Protection",
+        "attribute2": "4.9% Critical Hit Chance",
+        "talent": "-"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Model 700",
+        "dmg": "399,602",
+        "rpm": 54,
+        "talent": "Close & Personal",
+        "attribute1": "12.3% MMR Damage",
+        "attribute2": "92% Headshot Damage",
+        "attribute3": "4% Damage to Armor"
+      },
+      {
+        "name": "Military MK46",
+        "dmg": "56,414",
+        "rpm": 550,
+        "talent": "Perpetuation",
+        "attribute1": "10.3% LMG Damage",
+        "attribute2": "9% Damage Out of Cover",
+        "attribute3": "7.5% Critical Hit Chance"
+      }
+    ],
+    "mods": [
+      {
+        "name": "Utility Protocol: Intensity",
+        "type": "护甲模组",
+        "attributes": "10.1% Skill Haste"
+      },
+      {
+        "name": "Cell Penetrating Peptide",
+        "type": "Chem Launcher",
+        "attributes": "7.8% Ensnare Duration"
+      },
+      {
+        "name": "Polycarbonate Housing",
+        "type": "Hive",
+        "attributes": "7.8% Health"
+      },
+      {
+        "name": "Distributed Architecture",
+        "type": "Pulse",
+        "attributes": "8.8% Radius"
+      },
+      {
+        "name": "Trap Charge Improvement",
+        "type": "Trap",
+        "attributes": "4.1% Duration"
+      }
+    ]
+  },
+  "Haven": {
+    "gears": [
+      {
+        "name": "Demeter Quick-Stash",
+        "brand": "Airaldi Holdings",
+        "type": "Backpack",
+        "Core": "5.3% Weapon Damage",
+        "attribute1": "17,302 Health",
+        "attribute2": "10.0% Explosive Resistance",
+        "talent": "Composure"
+      },
+      {
+        "name": "Knee Mesh Jonti",
+        "brand": "Badger Tuff",
+        "type": "Kneepads",
+        "Core": "128,872 Armor",
+        "attribute1": "7.9% Hazard Protection",
+        "attribute2": "15.8% Repair Skills",
+        "talent": "-"
+      },
+      {
+        "name": "Constantin Sheath",
+        "brand": "Uzina Getica",
+        "type": "Holster",
+        "Core": "128,958 Armor",
+        "attribute1": "7.0% Explosive Resistance",
+        "attribute2": "3,628 Armor Regeneration",
+        "talent": "-"
+      }
+    ],
+    "weapons": [
       {
         "name": "CMMG Banshee",
         "dmg": "50,303",
         "rpm": 900,
-        "talent": "Reformation",
-        "attribute1": "10.5% SMG Damage",
+        "talent": "Close & Personal",
+        "attribute1": "12.8% SMG Damage",
+        "attribute2": "13% Critical Hit Chance",
+        "attribute3": "7% Damage Out of Cover"
+      },
+      {
+        "name": "SRS A1",
+        "dmg": "338,957",
+        "rpm": 60,
+        "talent": "Pressure Point",
+        "attribute1": "10.8% MMR Damage",
+        "attribute2": "92% Headshot Damage",
+        "attribute3": "7% Critical Hit Chance"
+      },
+      {
+        "name": "LVOA-C",
+        "dmg": "100,136",
+        "rpm": 360,
+        "talent": "Back and Forth",
+        "attribute1": "8.6% Rifle Damage",
+        "attribute2": "17% Critical Hit Damage",
+        "attribute3": "6.9% Reload Speed"
+      },
+      {
+        "name": "Snubnosed Diceros",
+        "dmg": "169,243",
+        "rpm": 180,
+        "talent": "In Sync",
+        "attribute1": "11.3% Pistol Damage",
+        "attribute2": "9% Headshot Damage",
+        "attribute3": "-"
+      }
+    ],
+    "mods": [
+      {
+        "name": "Offensive System: Dexterity",
+        "type": "护甲模组",
+        "attributes": "4.3% Critical Hit Chance"
+      },
+      {
+        "name": "Defensive Protocol: Stamina",
+        "type": "护甲模组",
+        "attributes": "8.3% Bleed Resistance"
+      },
+      {
+        "name": "Larrea Tridentata Infusion",
+        "type": "Seeker Mine",
+        "attributes": "5.7% Healing"
+      },
+      {
+        "name": "PVA Polymer Coating",
+        "type": "Chem Launcher",
+        "attributes": "4.1% Damage"
+      },
+      {
+        "name": "Improved Sticky Payload",
+        "type": "Sticky Bomb",
+        "attributes": "6.4% Damage"
+      }
+    ]
+  },
+  "The Bridge": {
+    "gears": [
+      {
+        "name": "Reinforced Utility Vest",
+        "brand": "Alps Summit Armaments",
+        "type": "Chest",
+        "Core": "1 Skill Tier",
+        "attribute1": "7.3% Skill Damage",
+        "attribute2": "10.2% Skill Haste",
+        "talent": "Spark"
+      },
+      {
+        "name": "Unburnable Gloves",
+        "brand": "Unit Alloys",
+        "type": "Gloves",
+        "Core": "4.8% Weapon Damage",
+        "attribute1": "7.6% Explosive Resistance",
+        "attribute2": "19.6% Repair Skills",
+        "talent": "-"
+      },
+      {
+        "name": "Haidate Thigh System",
+        "brand": "Murakami Industries",
+        "type": "Holster",
+        "Core": "1 Skill Tier",
+        "attribute1": "6.5% Explosive Resistance",
+        "attribute2": "8.2% Headshot Damage",
+        "talent": "-"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Converted SMG-9 A2",
+        "dmg": "49,833",
+        "rpm": 825,
+        "talent": "Future Perfect",
+        "attribute1": "11.2% SMG Damage",
         "attribute2": "15.5% Critical Hit Chance",
-        "attribute3": "7.7% Stability"
+        "attribute3": "7% Damage Out of Cover"
       },
       {
-        "name": "Mk16",
-        "dmg": "55,504",
-        "rpm": 625,
-        "talent": "Overflowing",
-        "attribute1": "10.6% AR Damage",
-        "attribute2": "14.5% Health Damage",
-        "attribute3": "12.9% Swap Speed"
+        "name": "Custom L86 A2",
+        "dmg": "59,705",
+        "rpm": 610,
+        "talent": "Precision Strike",
+        "attribute1": "11.6% LMG Damage",
+        "attribute2": "9% Damage Out of Cover",
+        "attribute3": "5% Damage to Armor"
       },
       {
-        "name": "586 Magnum",
-        "dmg": "190,339",
-        "rpm": 160,
-        "talent": "Killer",
-        "attribute1": "11.2% Pistol Damage",
-        "attribute2": "12.6% Swap Speed",
+        "name": "Double Barrel Sawed Off",
+        "dmg": "620,556",
+        "rpm": 200,
+        "talent": "Close & Personal",
+        "attribute1": "9.1% Shotgun Damage",
+        "attribute2": "12% Damage to Armor",
+        "attribute3": "9% Headshot Damage"
+      },
+      {
+        "name": "Tactical M1911",
+        "dmg": "98,725",
+        "rpm": 310,
+        "talent": "Pressure Point",
+        "attribute1": "11.1% Pistol Damage",
+        "attribute2": "11.7% Swap Speed",
         "attribute3": "-"
       }
     ],
@@ -652,463 +936,180 @@
       {
         "name": "Offensive System: Firearms",
         "type": "护甲模组",
-        "attributes": "7.4% Headshot Damage"
+        "attributes": "4.4% Critical Hit Chance"
       },
       {
-        "name": "Additional Ordnance",
-        "type": "Drone",
-        "attributes": "6.5% Armor Repair"
+        "name": "Offensive Protocol: Critical",
+        "type": "护甲模组",
+        "attributes": "4.5% Critical Hit Chance"
       },
       {
-        "name": "Carbon Fiber Barrel",
-        "type": "Turret",
-        "attributes": "5.7% Duration"
+        "name": "Weaved Aramid Fiber",
+        "type": "Shield",
+        "attributes": "4.1% Deflector Damage"
+      },
+      {
+        "name": "Extra Payload",
+        "type": "Hive",
+        "attributes": "8.4% Stim Efficiency"
       },
       {
         "name": "Improved Sticky Payload",
         "type": "Sticky Bomb",
-        "attributes": "4.0% Burn Duration"
-      }
-    ]
-  },
-  "DZ East": {
-    "gears": [
-      {
-        "name": "Lyudmila Snipers Mask",
-        "brand": "Aces & Eights",
-        "type": "Mask",
-        "Core": "10.2% Weapon Damage",
-        "attribute1": "4.3% Critical Hit Chance",
-        "attribute2": "-",
-        "talent": "-"
-      },
-      {
-        "name": "Special Ammo Holster",
-        "brand": "Ongoing Directive",
-        "type": "Holster",
-        "Core": "10.6% Weapon Damage",
-        "attribute1": "3,758 Armor Regeneration",
-        "attribute2": "-",
-        "talent": "-"
-      },
-      {
-        "name": "Emet Mask",
-        "brand": "Golan Gear Ltd",
-        "type": "Mask",
-        "Core": "108,858 Armor",
-        "attribute1": "7.8% Explosive Resistance",
-        "attribute2": "8.0% Hazard Protection",
-        "talent": "-"
-      },
-      {
-        "name": "HG Holster",
-        "brand": "Habsburg Guard",
-        "type": "Holster",
-        "Core": "118,743 Armor",
-        "attribute1": "15,417 Health",
-        "attribute2": "7.0% Explosive Resistance",
-        "talent": "-"
-      }
-    ],
-    "weapons": [
-      {
-        "name": "Pinprick - Covert SRS",
-        "dmg": "338,957",
-        "rpm": 60,
-        "talent": "Perfect First Blood",
-        "attribute1": "11.3% MMR Damage",
-        "attribute2": "91% Headshot Damage",
-        "attribute3": "8.1% Reload Speed"
-      },
-      {
-        "name": "SOCOM Mk20 SSR",
-        "dmg": "143,857",
-        "rpm": 275,
-        "talent": "First Blood",
-        "attribute1": "13.6% MMR Damage",
-        "attribute2": "93% Headshot Damage",
-        "attribute3": "7.5% Magazine Size"
-      },
-      {
-        "name": "Military MK46",
-        "dmg": "56,414",
-        "rpm": 550,
-        "talent": "Optimist",
-        "attribute1": "9.3% LMG Damage",
-        "attribute2": "9% Damage Out of Cover",
-        "attribute3": "5% Damage to Armor"
-      }
-    ],
-    "mods": [
-      {
-        "name": "Utility Protocol: Intensity",
-        "type": "护甲模组",
-        "attributes": "9.9% Skill Haste"
-      },
-      {
-        "name": "Disintegrating Links",
-        "type": "Chem Launcher",
-        "attributes": "6.0% Radius"
-      },
-      {
-        "name": "Steel Harness",
-        "type": "Hive",
-        "attributes": "4 Stinger Charges"
-      },
-      {
-        "name": "Distributed Architecture",
-        "type": "Pulse",
-        "attributes": "6.4% Cone Size"
-      },
-      {
-        "name": "Trap Electronics Upgrade",
-        "type": "Trap",
-        "attributes": "6.0% Duration"
-      }
-    ]
-  },
-  "Haven": {
-    "gears": [
-      {
-        "name": "Thistle Backpack",
-        "brand": "Royal Works",
-        "type": "Backpack",
-        "Core": "8.4% Weapon Damage",
-        "attribute1": "10.0% Hazard Protection",
-        "attribute2": "5.7% Headshot Damage",
-        "talent": "Protector"
-      },
-      {
-        "name": "Theodora Grips",
-        "brand": "Uzina Getica",
-        "type": "Gloves",
-        "Core": "112,913 Armor",
-        "attribute1": "8.5% Hazard Protection",
-        "attribute2": "16.4% Repair Skills",
-        "talent": "-"
-      },
-      {
-        "name": "Guerra Holster",
-        "brand": "Brazos de Arcabuz",
-        "type": "Holster",
-        "Core": "118,916 Armor",
-        "attribute1": "7.1% Skill Damage",
-        "attribute2": "8.9% Hazard Protection",
-        "talent": "-"
-      }
-    ],
-    "weapons": [
-      {
-        "name": "Honey Badger",
-        "dmg": "47,952",
-        "rpm": 790,
-        "talent": "Close & Personal",
-        "attribute1": "10.9% AR Damage",
-        "attribute2": "15% Health Damage",
-        "attribute3": "8.7% Stability"
-      },
-      {
-        "name": "SOCOM Mk20 SSR",
-        "dmg": "143,857",
-        "rpm": 275,
-        "talent": "Ranger",
-        "attribute1": "11% MMR Damage",
-        "attribute2": "92% Headshot Damage",
-        "attribute3": "7% Health Damage"
-      },
-      {
-        "name": "UIC15 MOD2",
-        "dmg": "105,777",
-        "rpm": 240,
-        "talent": "Strained",
-        "attribute1": "10.1% Rifle Damage",
-        "attribute2": "12% Critical Hit Damage",
-        "attribute3": "3.7% Rate of Fire"
-      },
-      {
-        "name": "KARD-45",
-        "dmg": "109,068",
-        "rpm": 310,
-        "talent": "In Sync",
-        "attribute1": "10.3% Pistol Damage",
-        "attribute2": "8.6% Accuracy",
-        "attribute3": "-"
-      }
-    ],
-    "mods": [
-      {
-        "name": "Defensive System: Mending",
-        "type": "护甲模组",
-        "attributes": "8.5% Disrupt Resistance"
-      },
-      {
-        "name": "Utility Protocol: Intensity",
-        "type": "护甲模组",
-        "attributes": "10.1% Skill Haste"
-      },
-      {
-        "name": "Ammo Box",
-        "type": "Turret",
-        "attributes": "5.9% Duration"
-      },
-      {
-        "name": "Guiding System",
-        "type": "Firefly",
-        "attributes": "1 Max Targets"
-      },
-      {
-        "name": "Improved Sticky Launcher",
-        "type": "Sticky Bomb",
-        "attributes": "4.9% Blast Radius"
-      }
-    ]
-  },
-  "The Bridge": {
-    "gears": [
-      {
-        "name": "Trapezius Go-bag",
-        "brand": "Wyvern Wear",
-        "type": "Backpack",
-        "Core": "1 Skill Tier",
-        "attribute1": "8.8% Headshot Damage",
-        "attribute2": "3.8% Critical Hit Chance",
-        "talent": "Composure"
-      },
-      {
-        "name": "Urban Warfare Kneepads",
-        "brand": "Providence Defense",
-        "type": "Kneepads",
-        "Core": "11.6% Weapon Damage",
-        "attribute1": "8.5% Status Effects",
-        "attribute2": "6.0% Weapon Handling",
-        "talent": "-"
-      },
-      {
-        "name": "Hera Pouch-Holster Combo",
-        "brand": "Airaldi Holdings",
-        "type": "Holster",
-        "Core": "11.5% Weapon Damage",
-        "attribute1": "3,857 Armor Regeneration",
-        "attribute2": "7.1% Skill Damage",
-        "talent": "-"
-      }
-    ],
-    "weapons": [
-      {
-        "name": "AUG A3-CQC",
-        "dmg": "51,243",
-        "rpm": 680,
-        "talent": "In Sync",
-        "attribute1": "10.8% AR Damage",
-        "attribute2": "15% Health Damage",
-        "attribute3": "7% Damage Out of Cover"
-      },
-      {
-        "name": "Tactical M249 Para",
-        "dmg": "56,414",
-        "rpm": 550,
-        "talent": "Killer",
-        "attribute1": "13.9% LMG Damage",
-        "attribute2": "7% Damage Out of Cover",
-        "attribute3": "7.5% Magazine Size"
-      },
-      {
-        "name": "Marine Super 90",
-        "dmg": "440,031",
-        "rpm": 160,
-        "talent": "Thunder Strike",
-        "attribute1": "10.4% Shotgun Damage",
-        "attribute2": "8% Damage to Armor",
-        "attribute3": "8.3% Accuracy"
-      },
-      {
-        "name": "KARD-45",
-        "dmg": "109,068",
-        "rpm": 310,
-        "talent": "Sadist",
-        "attribute1": "10.9% Pistol Damage",
-        "attribute2": "5% Damage to Armor",
-        "attribute3": "-"
-      }
-    ],
-    "mods": [
-      {
-        "name": "Utility System: Electronics",
-        "type": "护甲模组",
-        "attributes": "10.0% Skill Haste"
-      },
-      {
-        "name": "Defensive Protocol: Resilience",
-        "type": "护甲模组",
-        "attributes": "8.5% Disorient Resistance"
-      },
-      {
-        "name": "Thermoresponsive Polymer",
-        "type": "Shield",
-        "attributes": "1.0 Damage Bonus Per Enemy"
-      },
-      {
-        "name": "Polycarbonate Housing",
-        "type": "护甲模组",
-        "attributes": "4.2% Duration"
-      },
-      {
-        "name": "Improved Sticky Launcher",
-        "type": "护甲模组",
-        "attributes": "4.1% Skill Haste"
+        "attributes": "4.8% Blast Radius"
       }
     ]
   },
   "Cassie": {
     "gears": [
       {
-        "name": "Spot-on",
-        "brand": "Urban Lookout",
+        "name": "Picaro's Holster",
+        "brand": "Brazos de Arcabuz",
         "type": "Holster",
-        "Core": "12.3% Weapon Damage",
-        "attribute1": "38.0% Accuracy",
-        "attribute2": "10.8% Critical Hit Damage",
+        "Core": "170,000 Armor",
+        "attribute1": "9.6% Status Effects",
+        "attribute2": "10.0% Weapon Damage",
         "talent": "-"
       },
       {
         "name": "Hunter-Killer",
         "brand": "Golan Gear Ltd",
         "type": "Chest",
-        "Core": "113,434 Armor",
-        "attribute1": "18,935 Health",
-        "attribute2": "3,732 Armor Regeneration",
+        "Core": "144,280 Armor",
+        "attribute1": "15.7% Repair Skills",
+        "attribute2": "4,083 Armor Regeneration",
         "talent": "Perfect Intimidate"
       },
       {
-        "name": "Brad Tactical Pack",
-        "brand": "Tip of the Spear",
+        "name": "Cavalier Backpack",
+        "brand": "Cavalier",
         "type": "Backpack",
-        "Core": "15.0% Weapon Damage",
-        "attribute1": "9.3% Critical Hit Damage",
+        "Core": "135,540 Armor",
+        "attribute1": "10.9% Critical Hit Damage",
         "attribute2": "-",
-        "talent": "Signature Moves"
+        "talent": "Safe Charging"
       },
       {
-        "name": "Burst-resistant Plate",
-        "brand": "Tipping Scales",
+        "name": "Tania Silent Vest",
+        "brand": "Aces & Eights",
         "type": "Chest",
-        "Core": "12.3% Weapon Damage",
-        "attribute1": "8.2% Skill Damage",
+        "Core": "15.0% Weapon Damage",
+        "attribute1": "5.0% Weapon Handling",
         "attribute2": "-",
-        "talent": "Sustainability"
+        "talent": "No Limit"
       },
       {
-        "name": "Molesey ESD Gloves",
-        "brand": "Hard Wired",
+        "name": "Knifepoint Gloves",
+        "brand": "Breaking Point",
         "type": "Gloves",
-        "Core": "1 Skill Tier",
-        "attribute1": "8.0% Headshot Damage",
-        "attribute2": "-",
-        "talent": "-"
-      },
-      {
-        "name": "Measure Kneepads",
-        "brand": "Measured Assembly",
-        "type": "Kneepads",
-        "Core": "1 Skill Tier",
-        "attribute1": "4,122 Armor Regeneration",
-        "attribute2": "-",
-        "talent": "-"
-      },
-      {
-        "name": "Anvil Toolbelt",
-        "brand": "Foundry Bulwark",
-        "type": "Holster",
-        "Core": "132,290 Armor",
-        "attribute1": "16,347 Health",
-        "attribute2": "-",
-        "talent": "-"
-      },
-      {
-        "name": "Gatherers Mask",
-        "brand": "Ongoing Directive",
-        "type": "Mask",
-        "Core": "12.2% Weapon Damage",
+        "Core": "10.2% Weapon Damage",
         "attribute1": "10.8% Critical Hit Damage",
         "attribute2": "-",
         "talent": "-"
       },
       {
-        "name": "Harnesk Armor",
-        "brand": "Fenris Group AB",
-        "type": "Chest",
-        "Core": "11.3% Weapon Damage",
-        "attribute1": "8.6% Hazard Protection",
-        "attribute2": "16.7% Repair Skills",
-        "talent": "Braced"
+        "name": "Charger's Kneepads",
+        "brand": "Breaking Point",
+        "type": "Kneepads",
+        "Core": "12.7% Weapon Damage",
+        "attribute1": "6.7% Headshot Damage",
+        "attribute2": "-",
+        "talent": "-"
       },
       {
-        "name": "Rose Kneepads",
-        "brand": "Royal Works",
-        "type": "Kneepads",
-        "Core": "12.2% Weapon Damage",
-        "attribute1": "8.2% Explosive Resistance",
-        "attribute2": "9.0% Status Effects",
+        "name": "Ever-ready Holster",
+        "brand": "Heartbreaker",
+        "type": "Holster",
+        "Core": "118,133 Armor",
+        "attribute1": "4,366 Armor Regeneration",
+        "attribute2": "-",
+        "talent": "-"
+      },
+      {
+        "name": "Striker's Mask",
+        "brand": "Striker's Battlegear",
+        "type": "Mask",
+        "Core": "9.7% Weapon Damage",
+        "attribute1": "9.6% Status Effects",
+        "attribute2": "-",
+        "talent": "-"
+      },
+      {
+        "name": "Theodora Grips",
+        "brand": "Uzina Getica",
+        "type": "Gloves",
+        "Core": "131,191 Armor",
+        "attribute1": "8.7% Hazard Protection",
+        "attribute2": "16,272 Health",
+        "talent": "-"
+      },
+      {
+        "name": "Electrique Holster",
+        "brand": "Electrique",
+        "type": "Holster",
+        "Core": "1 Skill Tier",
+        "attribute1": "7.8% Headshot Damage",
+        "attribute2": "4,130 Armor Regeneration",
         "talent": "-"
       }
     ],
     "weapons": [
       {
-        "name": "Cabaret - MP5 ST",
-        "dmg": "51,713",
-        "rpm": 800,
-        "talent": "Perfect Thunder Strike",
-        "attribute1": "11.9% SMG Damage",
-        "attribute2": "16.5% Critical Hit Chance",
-        "attribute3": "7.5% Health Damage"
+        "name": "Mechanical Animal",
+        "dmg": "50,773",
+        "rpm": 720,
+        "talent": "Future Perfection",
+        "attribute1": "14.3% AR Damage",
+        "attribute2": "17% Health Damage",
+        "attribute3": "9% Headshot Damage"
       },
       {
         "name": "Shield Splinterer - F2000",
         "dmg": "45,132",
         "rpm": 850,
         "talent": "Perfect Optimist",
-        "attribute1": "11.8% AR Damage",
-        "attribute2": "16.5% Health Damage",
-        "attribute3": "5% Damage to Armor"
+        "attribute1": "7% AR Damage",
+        "attribute2": "17% Health Damage",
+        "attribute3": "6% Damage to Armor"
       },
       {
         "name": "Huntsman - FAMAS 2010",
         "dmg": "44,191",
         "rpm": 900,
         "talent": "Perfect Frenzy",
-        "attribute1": "11.9% AR Damage",
-        "attribute2": "18% Health Damage",
-        "attribute3": "7% Damage Out of Cover"
+        "attribute1": "11.4% AR Damage",
+        "attribute2": "16% Health Damage",
+        "attribute3": "20% Optimal Range"
       },
       {
-        "name": "Military RPK-74 M",
-        "dmg": "55,474",
-        "rpm": 650,
-        "talent": "Vindictive",
-        "attribute1": "10.8% LMG Damage",
-        "attribute2": "9% Damage Out of Cover",
-        "attribute3": "9.9% Reload Speed"
+        "name": "Military MK46",
+        "dmg": "56,414",
+        "rpm": 550,
+        "talent": "Thunder Strike",
+        "attribute1": "13.8% LMG Damage",
+        "attribute2": "11% Damage Out of Cover",
+        "attribute3": "6% Critical Hit Damage"
       },
       {
-        "name": "M870 Express",
-        "dmg": "695,775",
-        "rpm": 75,
-        "talent": "Breadbasket",
-        "attribute1": "9.7% Shotgun Damage",
-        "attribute2": "12% Damage to Armor",
-        "attribute3": "6.5% Critical Hit Chance"
+        "name": "SASG-12",
+        "dmg": "364,812",
+        "rpm": 180,
+        "talent": "Preservation",
+        "attribute1": "12% Shotgun Damage",
+        "attribute2": "10% Damage to Armor",
+        "attribute3": "4.1% Rate of Fire"
       }
     ],
     "mods": [
       {
-        "name": "Utility Protocol: Intensity",
+        "name": "Defensive Protocol: Stamina",
         "type": "护甲模组",
-        "attributes": "9.0% Skill Duration"
+        "attributes": "8.8% Bleed Resistance"
       },
       {
-        "name": "Trap Charge Improvement",
-        "type": "Trap",
-        "attributes": "4.4% Duration"
+        "name": "Feed Strip",
+        "type": "Chem Launcher",
+        "attributes": "6.6% Burn Strength"
       }
     ]
   }
